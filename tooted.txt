@@ -1,0 +1,23 @@
+Mida meie tahame
+mida ta osta tahab, kui palju
+kontaktandmed 
+tahame teada kas ta on maksnud
+
+Mida klient tahab
+Tooted ja laoseis
+
+Toode:                      Kogus:                     Hind:
+Dell telekad                  5                        1(tk) - 40€
+ELITEONE arvuti              36                        1(tk) - 800€
+HP klaviattur                40                        1(tk) - 15€
+HP hiir                      40                        1(tk) - 8€
+Nurgaga laud                 38                        1(tk) - 35€
+Tavaline laud                 2                        1(tk) - 20€
+Suur laud                     1                        1(tk) - 50€
+Tool                         40                        1(tk) - 15€
+Joonistus tahvel              1                        1(tk) - 100€
+Projektor                     1                        1(tk) - 300€
+Kõlarid                       2                        1(tk) - 30€
+Seina kell                    1                        1(tk) - 10€
+Power kaablid (arvutitele)   38                        1(tk) - 5€
+Interneti kaabel             35                        1(tk) - 12€
