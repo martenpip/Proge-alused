@@ -23,7 +23,7 @@ Power kaablid (arvutitele)   38                        1(tk) - 5€             
 Interneti kaabel             35                        1(tk) - 12€                  #C0C0C0 (Hõbedane)
 
 
-Tellimus :               Nimi:            Kogus:          Maks:           Järelmaks:          Toote Kood:
-Dell telekad            Maarek.P            2              80€               -0€                  10      
-Nurgaga laud            Steve.O             5              175€              -0€                  14
-ELITEONE arvuti         Maria.H             2              1600€             -0€                  11
+Tellimus :               Nimi:            Kogus:          Maks:           Järelmaks:          Toote Kood:          Staatus:
+Dell telekad            Maarek.P            2              80€               -0€                  10               (Tellimusel)
+Nurgaga laud            Steve.O             5              175€              -0€                  14               (Kätte saadud)
+ELITEONE arvuti         Maria.H             2              1600€             -0€                  11               (Kohale jõudnud ja kätte saadud)
