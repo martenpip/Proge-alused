@@ -4,3 +4,4 @@ if (rahakott >= tootehind)
    console.log("Saad osta!");
 else
    console.log("Ei saa osta");
+   
