@@ -58,20 +58,47 @@ if (rahakott >= tootehind) {
 }
 
 
-function checkTemp () {
-    let temp = 10;
-
-    if(temp <= 20){
-        console.log("Liiga külm!")
-    };
-    if(temp >21 && temp >= 40){
-        console.log("Paras temperatuur.")
-    };
-    if(temp > 41){
-        console.log("Liiga kuum!")
-    };
+function checkTemp (temp) {
+    console.log("Temp on "+temp)
+    if (temp = 0) {
+        console.log("Liiga külm!");
+        return true;
+    }
+    else if(temp >21 && temp >= 40){
+        console.log("Paras temperatuur.");
+        return false;
+    }
+    else {
+        (temp > 41)
+        console.log("Liiga Kuum!")
+    }
 }
 
+checkTemp(5)
+checkTemp(20)
+checkTemp(25)
+checkTemp(40)
+checkTemp(45)
+checkTemp(55)
+
+
+
+fuction summa(a,b) {
+    return a+b
+}
+
+function kasKüttus(temp) {
+    return temp < 20
+}
+
+function kasJahutada(temp) {
+    return temp > 40
+}
+
+let kasJahutada = true;
+if (0 == 0) {
+
+}
 
 
 
