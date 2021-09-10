@@ -5,14 +5,26 @@ let töötaja2 = {
     nimi: "Timo",
     palk: 10,
 }
+
+
 // ctrl + K   ctrl + C comment
 // ctrl + K   ctrl + U uncomment
 //Home + end = real algusesse
+//typeof special key word millega saab teada millene muutuja kuskil sõna sees on
+// primitive types: number string boolean
+// object function undefined
+// user defined types:
+// Math 
+
 
 function summa() {
     console.log (7+5)
 }
 
+let summa = function
+
+
+typeof summa
 
 // skoop scope 
 let rahakott = 10; 
