@@ -15,7 +15,18 @@ let töötaja2 = {
 // object function undefined
 // user defined types:
 // Math 
-// 
+
+
+
+
+// enum
+const AhjuToimingud = {
+    -1: "küta",
+    0: "ei tee midagi",
+    1: "jahuta"
+};
+
+
 
 
 function summa() {
@@ -58,21 +69,24 @@ if (rahakott >= tootehind) {
 }
 
 
+
 function checkTemp (temp) {
     console.log("Temp on "+temp)
-    if (temp = 0) {
-        console.log("Liiga külm!");
-        return true;
+    
+    if (temp <20) {
+        console.log("liiga külm")
+        return -1
     }
-    else if(temp >21 && temp >= 40){
-        console.log("Paras temperatuur.");
-        return false;
+    else if (temp <= 40) {
+        comsole.log("paras temperatuur")
+        return 0;
     }
     else {
-        (temp > 41)
-        console.log("Liiga Kuum!")
+        console.log("liiga kuum")
+        return 1
     }
 }
+
 
 checkTemp(5)
 checkTemp(20)
@@ -95,8 +109,16 @@ function kasJahutada(temp) {
     return temp > 40
 }
 
+
+if (temp < 20) {
+
+}else if (temp <= 40)
+
+} else {
+
 let kasJahutada = true;
-if (0 == 0) {
+
+if (kasJahutada(44)) {
 
 }
 
