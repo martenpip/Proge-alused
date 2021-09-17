@@ -6,7 +6,7 @@ function checkTemp (temp) {
         return -1
     }
     else if (temp <= 40) {
-        comsole.log("paras temperatuur")
+        console.log("paras temperatuur")
         return 0;
     }
     else {
