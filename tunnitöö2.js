@@ -22,3 +22,30 @@ let et = [1,5,7,3,3,4,1,2,9,4,9,5];
 let kuu = ["Jaanuar","Veebruar","Marts","Aprill","Mai","Juuni","Juuli","August","September","Oktoober","November","Detsembr"]
 console.log(kuu[tahaTeada-1]+" tarbimine on "+et[tahaTeada-1]); 
 
+
+//for
+//while
+
+for(let i=1; i < 100; i ++) {
+console.log(i)
+}
+
+let x=1;
+while(x <100) {
+    console.log(x);
+    x++; // kui unustad x++ siis kood kaib lopmatult
+}
+
+//increment = 1, number = index
+//numbrid 1-99
+
+let toota=true;
+while(toota) {
+    console.log(x);
+    if (new Date().getMinutes > 24)
+    toota = false;
+}
+
+
+
+
