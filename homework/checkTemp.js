@@ -1,7 +1,7 @@
 function checkTemp (temp) {
     console.log("Temp on "+temp)
     
-    if (temp <20) {
+    if (temp <21) {
         console.log("liiga külm")
         return -1
     }
