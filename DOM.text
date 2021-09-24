@@ -1,0 +1,15 @@
+DOM CRUD
+// Create
+let element = document.createElement("li")
+documnet.body.append(element)
+element.append(OtherElement)
+// Read
+documnet.querySelector(".red") // <
+documnet.querySelectorAll(".red")
+// Update
+element.className ="green" //vahetab elemendi klassi nime<
+// Delete
+
+let li = documnet.createElement("li")
+document.body.append(li)
+li.append("test2")
