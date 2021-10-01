@@ -18,7 +18,6 @@ list [1] // 2
 list [2] // 3
 list [3] // null
 list [4] // undefined
-list [3] // null
 fruits.indefOf("pear") // -1
 fruits.indefOf("apple") // 2
 fruits.includes("pear") // false
