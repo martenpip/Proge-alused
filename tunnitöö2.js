@@ -18,6 +18,12 @@ console.log(kuu[tahaTeada-1]+" tarbimine on "+et[tahaTeada-1]);
 
 //for
 //while
+let count = 100;
+while (count > 1) {
+    console.log(count);
+    count -=1;
+}
+//Kood loeb 100-1
 
 for(let i=1; i < 100; i ++) {
 console.log(i)
