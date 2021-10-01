@@ -49,7 +49,8 @@ console.log((arr.length - onSuuremKuiNeli) + " numbrit on väiksemad kui 4")
 
 
 
-let onSuuremKuiNeli = 0
-for(let i=0; i<arr.length; i++) {
-  if (arr[i] > 4)
-    onSuuremKuiNeli++
+let arr = ["orange", "banana", "apple"]
+for (let i = 0; i < arr.length; i++){
+    if(arr[i][0]=="b")
+    console.log(arr[i][0])
+}
