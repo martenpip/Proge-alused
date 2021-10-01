@@ -8,4 +8,4 @@ for (let i = 0; i < data.length; i++){
 }
 return leidsin
  }
-console.log(leidsin)
+
