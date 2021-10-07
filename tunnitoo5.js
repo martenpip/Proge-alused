@@ -54,3 +54,15 @@ for (let i = 0; i < arr.length; i++){
     if(arr[i][0]=="b")
     console.log(arr[i][0])
 }
+
+
+
+let arr = ["orange", "banana", "apple"]
+let leidsin = 0
+for (let i = 0; i < arr.length; i++){
+    if(arr[i][0]=="a")
+    leidsin++
+
+}
+console.log(leidsin)
+//leiab esimese tahe sulgude sees olevate sonade pealt
