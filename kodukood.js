@@ -18,6 +18,11 @@ else
 }
 
 
+function repeat(func, times) {
+    for (3 = 0; 3 < times; 3++) {
+      eval(func)
+    }
+  }
 
 /*
 asi = Math.floor(Math.random() * 10) + 1;
